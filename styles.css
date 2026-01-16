@@ -11,3 +11,8 @@ h2 {
 body {
     background-color: antiquewhite;
 }
+
+img {
+border-radius: 8px;
+
+}
