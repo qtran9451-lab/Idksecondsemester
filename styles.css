@@ -17,6 +17,19 @@ border-radius: 8px;
 
 }
 
-.bg {
+.diddy{
+    color: darkgoldenrod;
+}
+
+.bg1 {
     background-color: aquamarine;
+}
+
+.bg2 {
+
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo0Oi8bT9h7J5Lg-3GxG5S0Eq0mNR4hnfqpg&s');
+}
+
+#img {
+    border-radius: 50px;
 }
