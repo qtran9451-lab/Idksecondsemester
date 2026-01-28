@@ -1,11 +1,22 @@
 h1 {
     color: blue;
+    font-size: 100px;
+    text-align: centerx;
 
 }
 
 h2 {
     color: red;
+    font-size: 67px;
+    padding: 50px;
+    font-family: 'Courier New', Courier, monospace;
 
+}
+
+.p {
+    font-family: fantasy;
+    margin: 10px;
+    padding: 10px;
 }
 
 body {
@@ -19,14 +30,18 @@ border-radius: 8px;
 
 .diddy{
     color: darkgoldenrod;
+    margin: 5px;
 }
 
 .bg1 {
     background-color: aquamarine;
+    display: flex;
+    content: 80px;
+
 }
 
 .bg2 {
-
+    margin: 50px;
     background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo0Oi8bT9h7J5Lg-3GxG5S0Eq0mNR4hnfqpg&s');
 }
 

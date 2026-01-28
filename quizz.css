@@ -1,0 +1,26 @@
+body{
+    background-color: yellow;
+    background: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: relative;
+    gap: 70px;
+}
+
+.eyes {
+width: 100%;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
+.box {
+   width: 180px;
+  height: 180px;
+
+  background-color: aliceblue;
+  position: relative;
+}
+
+.eyebox{
+    
+}
